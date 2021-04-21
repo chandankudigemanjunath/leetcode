@@ -4,4 +4,3 @@ class Solution:
         for i in sorted(zip(indices,s)):
            m=m+(i[1])
         return m
-print("Done")
